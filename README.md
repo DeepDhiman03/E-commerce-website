@@ -1,13 +1,13 @@
-Step to Start Project
+<h1>Step to Start Project</h1>
 
 
-For Backend
+<h3>For Backend</h3>
 
-cd e-comerce-backend
-npm init
-npm start
+cd e-comerce-backend<br>
+npm init<br>
+npm start<br>
 
-For frontend
-cd e-comerce-frontend
-npm init 
-npm start
+<h3>For frontend</h3>
+cd e-comerce-frontend<br>
+npm init <br>
+npm start<br>
