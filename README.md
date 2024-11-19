@@ -1,4 +1,4 @@
-<h1>Step to Start Project</h1>
+<h1>Steps to Start Project</h1>
 
 
 <h3>For Backend</h3>
